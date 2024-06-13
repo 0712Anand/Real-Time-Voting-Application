@@ -1,3 +1,6 @@
 checkpoints
 .venv
 postgresql-42.7.3.jar
+.idea/ .
+__pycache__
+.idea/RealtimeVotingSystem.iml
