@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
 - Docker
 - Docker Compose
-- Python 3.x
+- Python 3.9 and up
 - Apache Kafka
 - Apache Spark
 - PostgreSQL
