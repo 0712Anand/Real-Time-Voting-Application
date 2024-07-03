@@ -2,6 +2,9 @@
 
 This project demonstrates a real-time vote streaming application using Docker, PostgreSQL, Python, Apache Kafka, Apache Spark for transformations, and Streamlit for visualizations.
 
+## Data Pipeline 
+
+
 ## Table of Contents
 
 - [Overview](#overview)
